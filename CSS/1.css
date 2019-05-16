@@ -1,0 +1,45 @@
+
+
+div.Musica{
+    color: rgb(0, 0, 0)
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+.animate {
+    height: 200px;
+    width: 400px;
+    
+    -webkit-animation: animate_bg 5s;
+    animation: animate_bg 5s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+@keyframes animate_bg {
+    0%   {background:red;}
+    50%  {background:green;}
+    100% {background:blue;}
+}
+
+@keyframes animate_bg {
+    0%   {background:red;}
+    50%  {background:green;}
+    100% {background:blue;}
+}
+
+@-webkit-keyframes animate_bg {
+    0%   {background:red;}
+    50%  {background:green;}
+    100% {background:blue;}
+}
+h2.Video{
+    color: rgb(0, 0, 0);
+}
+div.Videoaudio{
+    float: left;
+    width: 40%;
+    margin-right: 5px;
+    text-align: center;
+    clear: both;
+}

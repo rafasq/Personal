@@ -1,0 +1,21 @@
+h2.uno{
+    color: #011f4b;
+}
+h2.dos{
+    color: #03396c;
+}
+h2.tres{
+    color: #005b96;
+}
+h2.cuatro{
+    color: #6497b1;
+}
+h1{
+    text-align: center;
+    color: #011f4b;
+}
+body{
+    background-image: linear-gradient( 	#b3cde0, white);
+    background-repeat: no-repeat;
+    height: 100vh;
+}

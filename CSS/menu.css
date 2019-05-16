@@ -1,0 +1,30 @@
+div.Tareas{
+    float: left;
+    height: 30%;
+    width: 30%;
+    background-color: rgb(255, 6, 243);
+    margin-right: 5px;
+    text-align: center;
+}
+h2.Tareas{
+    color: black;
+
+}
+a{
+    text-decoration: none;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+div.Titulo{
+    background-color: blueviolet;
+    text-align: center;
+    height: 30%;
+    width: 100%;
+}
+
+div.a{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}

@@ -23,7 +23,12 @@ div.Titulo{
     height: 30%;
     width: 100%;
 }
-
+div.pasatiempos{
+    background-color: cyan;
+    text-align: center;
+    height: 30%;
+    width: 100%;
+}
 div.a{
     text-align: center;
     color: rgb(255, 0, 0);
